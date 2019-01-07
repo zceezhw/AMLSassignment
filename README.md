@@ -4,8 +4,6 @@ Applied Machine Learning Systems Assignment 2018
 
 Test_result folder contains the CSV file for each classification task
 
-dataset_with_face folder contains the images with face ready for training.
-
 file data_preprocessing.py is used to remove noisy images from the original dataset and produce a new attriubte list for training.
 
 File landmark.py is used to extract feature from image, then it is used in Classification.py file.
